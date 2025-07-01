@@ -49,11 +49,9 @@ This project builds machine learning models to predict individual responses to t
 - Probabilities extracted using `.predict_proba()`
 - Results saved to `Predictions_Hackathon.csv`
 
----
-
 ### 📌 Future Improvements
--Hyperparameter tuning with GridSearchCV
--Use XGBoost or CatBoost for potentially better performance
--Feature engineering for domain-specific insights
+- Hyperparameter tuning with GridSearchCV
+- Use XGBoost or CatBoost for potentially better performance
+- Feature engineering for domain-specific insights
 
 ---
