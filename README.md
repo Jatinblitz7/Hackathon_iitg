@@ -51,7 +51,7 @@ This project builds machine learning models to predict individual responses to t
 
 ---
 
-📌 Future Improvements
+### 📌 Future Improvements
 -Hyperparameter tuning with GridSearchCV
 -Use XGBoost or CatBoost for potentially better performance
 -Feature engineering for domain-specific insights
